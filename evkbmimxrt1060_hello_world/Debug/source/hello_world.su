@@ -1,0 +1,13 @@
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\CMSIS/core_cm7.h:1911:22:__NVIC_EnableIRQ	16	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\drivers/fsl_clock.h:1496:20:CLOCK_ControlGate	32	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\drivers/fsl_clock.h:1513:20:CLOCK_EnableClock	16	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\drivers/fsl_common_arm.h:514:24:EnableIRQ	24	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\drivers/fsl_gpio.h:176:24:GPIO_PinRead	16	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\drivers/fsl_gpt.h:217:20:GPT_SetClockDivider	16	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\drivers/fsl_gpt.h:270:20:GPT_StartTimer	16	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\drivers/fsl_gpt.h:394:20:GPT_SetOutputCompareValue	24	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\drivers/fsl_gpt.h:442:20:GPT_EnableInterrupts	16	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_hello_world\drivers/fsl_gpt.h:496:20:GPT_ClearStatusFlags	16	static
+../source/hello_world.c:40:6:GPT2_IRQHandler	8	static
+../source/hello_world.c:56:5:main	32	static
