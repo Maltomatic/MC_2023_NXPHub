@@ -1,0 +1,8 @@
+C:\NXP\GUI-Guider-Projects\scratch\sdk\Core\lvgl\lvgl/src/lv_api_map.h:35:51:lv_task_handler	8	static
+C:/NXP/GUI-Guider-Projects/scratch/sdk/Core/source/lvgl_guider.c:43:13:AppTask	16	static
+C:/NXP/GUI-Guider-Projects/scratch/sdk/Core/source/lvgl_guider.c:88:5:main	24	static
+C:/NXP/GUI-Guider-Projects/scratch/sdk/Core/source/lvgl_guider.c:135:6:vApplicationMallocFailedHook	8	static
+C:/NXP/GUI-Guider-Projects/scratch/sdk/Core/source/lvgl_guider.c:146:6:vApplicationTickHook	8	static
+C:/NXP/GUI-Guider-Projects/scratch/sdk/Core/source/lvgl_guider.c:157:6:vApplicationStackOverflowHook	16	static
+C:/NXP/GUI-Guider-Projects/scratch/sdk/Core/source/lvgl_guider.c:166:6:vApplicationGetIdleTaskMemory	24	static
+C:/NXP/GUI-Guider-Projects/scratch/sdk/Core/source/lvgl_guider.c:193:6:vApplicationGetTimerTaskMemory	24	static
