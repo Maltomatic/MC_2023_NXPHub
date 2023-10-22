@@ -185,8 +185,6 @@
 	</filteredResources>
 	<variableList>
 		<variable>
-			<name>GUIDER_PROJECT_LOC</name>
-			<value>file:/C:/NXP/GUI-Guider-Projects/scratch/sdk/mcuxpresso</value>
 		</variable>
 	</variableList>
 </projectDescription>

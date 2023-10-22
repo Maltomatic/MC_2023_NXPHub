@@ -1,0 +1,8 @@
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_lvgl_guider\lvgl\lvgl/src/core/lv_disp.h:182:26:lv_scr_act	8	static
+C:\Users\justi\Documents\MCUXpressoIDE_11.8.0_1165\practice\evkbmimxrt1060_lvgl_guider\lvgl\lvgl/src/lv_api_map.h:35:51:lv_task_handler	8	static
+../source/lvgl_guider.c:43:13:AppTask	24	static
+../source/lvgl_guider.c:81:6:BOARD_ReconfigFlexSpiRxBuffer	40	static
+../source/lvgl_guider.c:132:5:main	24	static
+../source/lvgl_guider.c:169:6:vApplicationMallocFailedHook	8	static
+../source/lvgl_guider.c:180:6:vApplicationTickHook	8	static
+../source/lvgl_guider.c:191:6:vApplicationStackOverflowHook	16	static
