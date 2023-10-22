@@ -1,0 +1,4 @@
+../video/fsl_sccb.c:20:10:SCCB_WriteReg	24	static
+../video/fsl_sccb.c:26:10:SCCB_WriteMultiRegs	4	static
+../video/fsl_sccb.c:36:10:SCCB_ReadReg	8	static
+../video/fsl_sccb.c:42:10:SCCB_ModifyReg	48	static

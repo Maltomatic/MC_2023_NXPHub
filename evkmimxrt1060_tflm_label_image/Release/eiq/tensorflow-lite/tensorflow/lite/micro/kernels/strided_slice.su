@@ -1,0 +1,6 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/strided_slice.cpp:129:7:void* tflite::ops::micro::strided_slice::Init(TfLiteContext*, const char*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/strided_slice.cpp:148:14:TfLiteStatus tflite::ops::micro::strided_slice::Eval(TfLiteContext*, TfLiteNode*)	1056	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/strided_slice.cpp:70:28:tflite::StridedSliceParams tflite::ops::micro::strided_slice::BuildStridedSliceParams(StridedSliceContext*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/strided_slice.cpp:94:14:TfLiteStatus tflite::ops::micro::strided_slice::CheckOutputSize(TfLiteContext*, StridedSliceContext*)	184	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/strided_slice.cpp:134:14:TfLiteStatus tflite::ops::micro::strided_slice::Prepare(TfLiteContext*, TfLiteNode*)	184	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/strided_slice.cpp:202:20:TfLiteRegistration tflite::ops::micro::Register_STRIDED_SLICE()	16	static

@@ -1,0 +1,4 @@
+../source/timer.c:36:6:SysTick_Handler	0	static
+../source/timer.c:41:6:TIMER_Init	16	static
+../source/timer.c:48:5:TIMER_GetTimeInUS	4	static
+c:\nxp\mcuxpressoide_11.8.0_1165\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047\tools\arm-none-eabi\include\sys\time.h:432:5:gettimeofday	8	static

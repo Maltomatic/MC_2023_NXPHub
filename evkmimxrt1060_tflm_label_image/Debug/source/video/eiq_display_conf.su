@@ -1,0 +1,15 @@
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\CMSIS/core_cm7.h:1911:22:__NVIC_EnableIRQ	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\CMSIS/core_cm7.h:2002:22:__NVIC_ClearPendingIRQ	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\CMSIS/core_cm7.h:2041:22:__NVIC_SetPriority	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_clock.h:1408:20:CLOCK_SetMux	24	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_clock.h:1460:20:CLOCK_SetDiv	24	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_clock.h:1496:20:CLOCK_ControlGate	32	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_clock.h:1513:20:CLOCK_EnableClock	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_clock.h:1523:20:CLOCK_DisableClock	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+../source/video/eiq_display_conf.c:73:13:BOARD_InitLcdifPixelClock	16	static
+../source/video/eiq_display_conf.c:107:13:BOARD_InitLcd	16	static
+../source/video/eiq_display_conf.c:142:6:LCDIF_IRQHandler	8	static
+../source/video/eiq_display_conf.c:153:10:BOARD_PrepareDisplayController	8	static
+../source/video/eiq_display_conf.c:164:6:BOARD_ResetDisplayMix	4	static

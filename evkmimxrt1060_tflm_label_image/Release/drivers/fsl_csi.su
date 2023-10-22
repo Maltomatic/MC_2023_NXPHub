@@ -1,0 +1,17 @@
+../drivers/fsl_csi.c:848:6:CSI_TransferHandleIRQ	24	static
+../drivers/fsl_csi.c:279:10:CSI_Init	12	static
+../drivers/fsl_csi.c:380:6:CSI_Deinit	0	static
+../drivers/fsl_csi.c:397:6:CSI_Reset	4	static
+../drivers/fsl_csi.c:454:6:CSI_GetDefaultConfig	4	static
+../drivers/fsl_csi.c:478:6:CSI_SetRxBufferAddr	0	static
+../drivers/fsl_csi.c:500:6:CSI_ClearFifo	4	static
+../drivers/fsl_csi.c:543:6:CSI_ReflashFifoDma	0	static
+../drivers/fsl_csi.c:572:6:CSI_EnableFifoDmaRequest	0	static
+../drivers/fsl_csi.c:602:6:CSI_EnableInterrupts	4	static
+../drivers/fsl_csi.c:615:6:CSI_DisableInterrupts	0	static
+../drivers/fsl_csi.c:636:10:CSI_TransferCreateHandle	24	static
+../drivers/fsl_csi.c:678:10:CSI_TransferStart	0	static
+../drivers/fsl_csi.c:730:10:CSI_TransferStop	4	static
+../drivers/fsl_csi.c:773:10:CSI_TransferSubmitEmptyBuffer	4	static
+../drivers/fsl_csi.c:805:10:CSI_TransferGetFullBuffer	4	static
+../drivers/fsl_csi.c:1403:6:CSI_DriverIRQHandler	8	static

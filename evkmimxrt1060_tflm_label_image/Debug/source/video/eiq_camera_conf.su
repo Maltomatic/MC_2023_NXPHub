@@ -1,0 +1,12 @@
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_clock.h:1408:20:CLOCK_SetMux	24	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_clock.h:1460:20:CLOCK_SetDiv	24	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_clock.h:1496:20:CLOCK_ControlGate	32	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_clock.h:1513:20:CLOCK_EnableClock	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_iomuxc.h:1288:20:IOMUXC_SetPinMux	24	static
+../source/video/eiq_camera_conf.c:99:6:CSI_IRQHandler	8	static
+../source/video/eiq_camera_conf.c:105:13:BOARD_PullCameraResetPin	16	static
+../source/video/eiq_camera_conf.c:136:13:i2c_release_bus_delay	8	static
+../source/video/eiq_camera_conf.c:144:13:BOARD_I2C_ReleaseBus	24	static
+../source/video/eiq_camera_conf.c:200:6:BOARD_EarlyPrepareCamera	8	static
+../source/video/eiq_camera_conf.c:210:6:BOARD_InitCameraResource	16	static

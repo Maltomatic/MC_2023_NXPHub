@@ -1,0 +1,9 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:31:7:void* tflite::InitReduce(TfLiteContext*, const char*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:35:14:TfLiteStatus tflite::PrepareMax(TfLiteContext*, TfLiteNode*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:40:14:TfLiteStatus tflite::PrepareMeanOrSum(TfLiteContext*, TfLiteNode*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:45:14:TfLiteStatus tflite::EvalMean(TfLiteContext*, TfLiteNode*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:50:14:TfLiteStatus tflite::EvalMax(TfLiteContext*, TfLiteNode*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:55:14:TfLiteStatus tflite::EvalSum(TfLiteContext*, TfLiteNode*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:60:20:TfLiteRegistration tflite::Register_MEAN()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:64:20:TfLiteRegistration tflite::Register_REDUCE_MAX()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:68:20:TfLiteRegistration tflite::Register_SUM()	16	static

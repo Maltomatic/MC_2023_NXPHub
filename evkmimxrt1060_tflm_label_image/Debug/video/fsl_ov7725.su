@@ -1,0 +1,17 @@
+../video/fsl_ov7725.c:291:13:OV7725_DelayMs	16	static
+../video/fsl_ov7725.c:296:17:OV7725_WriteRegs	40	static
+../video/fsl_ov7725.c:313:17:OV7725_SoftwareReset	24	static
+../video/fsl_ov7725.c:318:17:OV7725_SetClockConfig	48	static
+../video/fsl_ov7725.c:340:17:OV7725_SetPixelFormat	40	static
+../video/fsl_ov7725.c:353:10:OV7725_Init	56	static
+../video/fsl_ov7725.c:512:10:OV7725_SetSpecialEffect	40	static
+../video/fsl_ov7725.c:533:10:OV7725_SetContrast	24	static
+../video/fsl_ov7725.c:546:10:OV7725_SetBrightness	32	static
+../video/fsl_ov7725.c:568:10:OV7725_SetSaturation	32	static
+../video/fsl_ov7725.c:584:10:OV7725_SetLightMode	32	static
+../video/fsl_ov7725.c:606:10:OV7725_SetNightMode	40	static
+../video/fsl_ov7725.c:622:10:OV7725_Deinit	16	static
+../video/fsl_ov7725.c:629:10:OV7725_Control	32	static
+../video/fsl_ov7725.c:642:10:OV7725_Start	16	static
+../video/fsl_ov7725.c:647:10:OV7725_Stop	16	static
+../video/fsl_ov7725.c:652:10:OV7725_InitExt	24	static

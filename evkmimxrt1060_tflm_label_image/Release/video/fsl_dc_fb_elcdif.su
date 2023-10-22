@@ -1,0 +1,10 @@
+../video/fsl_dc_fb_elcdif.c:118:10:DC_FB_ELCDIF_EnableLayer	4	static
+../video/fsl_dc_fb_elcdif.c:186:10:DC_FB_ELCDIF_GetLayerDefaultConfig	0	static
+../video/fsl_dc_fb_elcdif.c:202:10:DC_FB_ELCDIF_SetFrameBuffer	0	static
+../video/fsl_dc_fb_elcdif.c:229:6:DC_FB_ELCDIF_SetCallback	0	static
+../video/fsl_dc_fb_elcdif.c:238:10:DC_FB_ELCDIF_GetProperty	0	static
+../video/fsl_dc_fb_elcdif.c:69:10:DC_FB_ELCDIF_Init	48	static
+../video/fsl_dc_fb_elcdif.c:103:10:DC_FB_ELCDIF_Deinit	8	static
+../video/fsl_dc_fb_elcdif.c:144:10:DC_FB_ELCDIF_DisableLayer	16	static
+../video/fsl_dc_fb_elcdif.c:160:10:DC_FB_ELCDIF_SetLayerConfig	8	static
+../video/fsl_dc_fb_elcdif.c:243:6:DC_FB_ELCDIF_IRQHandler	4	static

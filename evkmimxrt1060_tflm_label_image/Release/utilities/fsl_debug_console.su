@@ -1,0 +1,10 @@
+../utilities/fsl_debug_console.c:156:5:DbgConsole_Putchar	16	static
+../utilities/fsl_debug_console.c:546:12:DbgConsole_PrintfFormattedData.constprop	96	static
+../utilities/fsl_debug_console.c:75:10:DbgConsole_Init	40	static
+../utilities/fsl_debug_console.c:110:10:DbgConsole_Deinit	8	static
+../utilities/fsl_debug_console.c:127:5:DbgConsole_Printf	16	static
+../utilities/fsl_debug_console.c:140:5:DbgConsole_Vprintf	0	static
+../utilities/fsl_debug_console.c:169:5:DbgConsole_Scanf	48	static
+../utilities/fsl_debug_console.c:228:5:DbgConsole_Getchar	16	static
+../utilities/fsl_debug_console.c:1380:27:_write	8	static
+../utilities/fsl_debug_console.c:1407:27:_read	8	static

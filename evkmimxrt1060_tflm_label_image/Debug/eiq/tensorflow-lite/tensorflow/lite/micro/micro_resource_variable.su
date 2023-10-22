@@ -1,0 +1,10 @@
+c:\nxp\mcuxpressoide_11.8.0_1165\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047\tools\arm-none-eabi\include\c++\12.2.1\new:174:33:void* operator new(std::size_t, void*)	16	static
+c:\nxp\mcuxpressoide_11.8.0_1165\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047\tools\arm-none-eabi\include\c++\12.2.1\arm-none-eabi\thumb\v7e-m+dp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/micro/micro_resource_variable.h:74:3:tflite::MicroResourceVariables::MicroResourceVariables(MicroResourceVariable*, int)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_resource_variable.cpp:30:25:static tflite::MicroResourceVariables* tflite::MicroResourceVariables::Create(tflite::MicroAllocator*, int)	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_resource_variable.cpp:44:5:int tflite::MicroResourceVariables::CreateIdIfNoneFound(const char*, const char*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_resource_variable.cpp:69:14:TfLiteStatus tflite::MicroResourceVariables::Read(int, const TfLiteEvalTensor*)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_resource_variable.cpp:82:14:TfLiteStatus tflite::MicroResourceVariables::Allocate(int, TfLiteContext*, const TfLiteTensor*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_resource_variable.cpp:107:14:TfLiteStatus tflite::MicroResourceVariables::Assign(int, const TfLiteEvalTensor*)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_resource_variable.cpp:127:14:TfLiteStatus tflite::MicroResourceVariables::ResetAll()	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_resource_variable.cpp:135:5:int tflite::MicroResourceVariables::FindId(const char*, const char*)	32	static

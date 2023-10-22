@@ -1,0 +1,3 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/zeros_like.cpp:27:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/zeros_like.cpp:52:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	64	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/zeros_like.cpp:83:20:TfLiteRegistration tflite::Register_ZEROS_LIKE()	16	static

@@ -1,0 +1,10 @@
+c:\nxp\mcuxpressoide_11.8.0_1165\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047\tools\arm-none-eabi\include\c++\12.2.1\arm-none-eabi\thumb\v7e-m+dp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:31:7:void* tflite::InitReduce(TfLiteContext*, const char*, size_t)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:35:14:TfLiteStatus tflite::PrepareMax(TfLiteContext*, TfLiteNode*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:40:14:TfLiteStatus tflite::PrepareMeanOrSum(TfLiteContext*, TfLiteNode*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:45:14:TfLiteStatus tflite::EvalMean(TfLiteContext*, TfLiteNode*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:50:14:TfLiteStatus tflite::EvalMax(TfLiteContext*, TfLiteNode*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:55:14:TfLiteStatus tflite::EvalSum(TfLiteContext*, TfLiteNode*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:60:20:TfLiteRegistration tflite::Register_MEAN()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:64:20:TfLiteRegistration tflite::Register_REDUCE_MAX()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce.cpp:68:20:TfLiteRegistration tflite::Register_SUM()	24	static

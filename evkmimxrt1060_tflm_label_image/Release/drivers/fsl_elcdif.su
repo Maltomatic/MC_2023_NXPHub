@@ -1,0 +1,7 @@
+../drivers/fsl_elcdif.c:101:6:ELCDIF_RgbModeInit	20	static
+../drivers/fsl_elcdif.c:177:6:ELCDIF_RgbModeGetDefaultConfig	4	static
+../drivers/fsl_elcdif.c:205:6:ELCDIF_RgbModeSetPixelFormat	4	static
+../drivers/fsl_elcdif.c:221:6:ELCDIF_Deinit	0	static
+../drivers/fsl_elcdif.c:240:6:ELCDIF_RgbModeStop	0	static
+../drivers/fsl_elcdif.c:255:6:ELCDIF_Reset	0	static
+../drivers/fsl_elcdif.c:349:10:ELCDIF_UpdateLut	4	static

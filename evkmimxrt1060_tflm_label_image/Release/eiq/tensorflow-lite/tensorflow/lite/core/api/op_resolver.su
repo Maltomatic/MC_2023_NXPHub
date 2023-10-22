@@ -1,0 +1,1 @@
+../eiq/tensorflow-lite/tensorflow/lite/core/api/op_resolver.cpp:25:14:TfLiteStatus tflite::GetRegistrationFromOpCode(const OperatorCode*, const OpResolver&, ErrorReporter*, const TfLiteRegistration**)	32	static

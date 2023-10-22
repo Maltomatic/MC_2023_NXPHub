@@ -1,0 +1,7 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_helpers.cpp:30:10:uint8_t* tflite::AlignPointerUp(uint8_t*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_helpers.cpp:37:10:uint8_t* tflite::AlignPointerDown(uint8_t*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_helpers.cpp:44:8:size_t tflite::AlignSizeUp(size_t, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_helpers.cpp:49:14:TfLiteStatus tflite::TfLiteTypeSizeOf(TfLiteType, size_t*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_helpers.cpp:99:14:TfLiteStatus tflite::BytesRequiredForTensor(const Tensor&, size_t*, size_t*, ErrorReporter*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_helpers.cpp:119:14:TfLiteStatus tflite::TfLiteEvalTensorByteLength(const TfLiteEvalTensor*, size_t*)	8	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/memory_helpers.cpp:136:14:TfLiteStatus tflite::AllocateOutputDimensionsFromInput(TfLiteContext*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*)	40	static

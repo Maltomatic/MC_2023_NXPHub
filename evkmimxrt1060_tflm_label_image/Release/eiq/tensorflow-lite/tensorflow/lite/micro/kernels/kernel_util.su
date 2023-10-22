@@ -1,0 +1,16 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:40:20:TfLiteRegistration tflite::micro::RegisterOp(void* (*)(TfLiteContext*, const char*, size_t), TfLiteStatus (*)(TfLiteContext*, TfLiteNode*), TfLiteStatus (*)(TfLiteContext*, TfLiteNode*), void (*)(TfLiteContext*, void*))	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:58:19:TfLiteEvalTensor* tflite::micro::GetMutableEvalInput(const TfLiteContext*, const TfLiteNode*, int)	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:73:25:const TfLiteEvalTensor* tflite::micro::GetEvalInput(const TfLiteContext*, const TfLiteNode*, int)	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:79:19:TfLiteEvalTensor* tflite::micro::GetEvalOutput(const TfLiteContext*, const TfLiteNode*, int)	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:86:6:bool tflite::micro::HaveSameShapes(const TfLiteEvalTensor*, const TfLiteEvalTensor*)	8	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:93:20:const tflite::RuntimeShape tflite::micro::GetTensorShape(const TfLiteEvalTensor*)	8	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:103:13:tflite::PaddingType tflite::micro::RuntimePaddingType(TfLitePadding)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:119:14:TfLiteStatus tflite::micro::CreateWritableTensorDimsWithCopy(TfLiteContext*, TfLiteTensor*, TfLiteEvalTensor*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:142:8:size_t tflite::micro::ValidateAndGetTensorSizes(const TfLiteEvalTensor*, const TfLiteEvalTensor*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:152:14:TfLiteStatus tflite::micro::CopyOpInputsToOpOutputs(TfLiteContext*, TfLiteNode*)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:179:6:void tflite::micro::PrintNBytes(const int8_t*, int, const char*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:192:6:void tflite::micro::PrintNBytes(const TfLiteEvalTensor*, int, const char*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:200:6:void tflite::micro::PrintNBytes(const TfLiteTensor*, int, const char*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:205:14:TfLiteStatus tflite::micro::CopyOpInputsToSubgraphInputs(TfLiteContext*, TfLiteNode*, tflite::MicroGraph*, int, int)	64	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:225:14:TfLiteStatus tflite::micro::CopyOpOutputsToSubgraphInputs(TfLiteContext*, TfLiteNode*, tflite::MicroGraph*, int)	56	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/kernel_util.cpp:242:14:TfLiteStatus tflite::micro::CopySubgraphOutputsToOpOutputs(TfLiteContext*, TfLiteNode*, tflite::MicroGraph*, int)	56	static

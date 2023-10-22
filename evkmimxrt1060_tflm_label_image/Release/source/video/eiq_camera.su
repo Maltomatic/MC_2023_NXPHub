@@ -1,0 +1,6 @@
+../source/video/eiq_camera.c:47:13:start	0	static
+../source/video/eiq_camera.c:59:15:getResolution	8	static
+../source/video/eiq_camera.c:72:13:notify	8	static
+../source/video/eiq_camera.c:87:13:setReadyCallback	0	static
+../source/video/eiq_camera.c:100:13:bufferReady	16	static
+../source/video/eiq_camera.c:174:15:EIQ_InitCamera	48	static

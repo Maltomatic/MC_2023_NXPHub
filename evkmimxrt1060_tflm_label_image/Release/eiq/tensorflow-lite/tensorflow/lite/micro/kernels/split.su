@@ -1,0 +1,6 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/split.cpp:71:14:TfLiteStatus tflite::ops::micro::split::Prepare(TfLiteContext*, TfLiteNode*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/split.cpp:122:20:TfLiteRegistration tflite::ops::micro::Register_SPLIT()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/split.cpp:29:14:TfLiteStatus tflite::ops::micro::split::SplitImpl(TfLiteContext*, TfLiteNode*, const TfLiteEvalTensor*, int) [with T = float]	56	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/split.cpp:29:14:TfLiteStatus tflite::ops::micro::split::SplitImpl(TfLiteContext*, TfLiteNode*, const TfLiteEvalTensor*, int) [with T = short int]	56	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/split.cpp:29:14:TfLiteStatus tflite::ops::micro::split::SplitImpl(TfLiteContext*, TfLiteNode*, const TfLiteEvalTensor*, int) [with T = long int]	64	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/split.cpp:86:14:TfLiteStatus tflite::ops::micro::split::Eval(TfLiteContext*, TfLiteNode*)	72	static

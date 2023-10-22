@@ -1,0 +1,38 @@
+C:\Users\jj910\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/micro/memory_planner/micro_memory_planner.h:64:24:virtual TfLiteStatus tflite::MicroMemoryPlanner::AddBuffer(tflite::ErrorReporter*, int, int, int, int)	0	static
+C:\Users\jj910\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/micro/memory_planner/micro_memory_planner.h:83:24:virtual TfLiteStatus tflite::MicroMemoryPlanner::Init(unsigned char*, int)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:63:9:virtual void* tflite::{anonymous}::MicroBuiltinDataAllocator::Allocate(size_t, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:67:8:virtual void tflite::{anonymous}::MicroBuiltinDataAllocator::Deallocate(void*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:381:1:virtual tflite::MicroAllocator::~MicroAllocator()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:532:7:virtual void* tflite::MicroAllocator::AllocatePersistentBuffer(size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:679:6:virtual void tflite::MicroAllocator::DeallocateTempTfLiteTensor(TfLiteTensor*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:743:14:virtual TfLiteStatus tflite::MicroAllocator::ResetTempAllocations()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:747:6:virtual bool tflite::MicroAllocator::IsAllTempDeallocated()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:812:15:virtual TfLiteTensor* tflite::MicroAllocator::AllocatePersistentTfLiteTensorInternal()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:57:7:virtual tflite::{anonymous}::MicroBuiltinDataAllocator::~MicroBuiltinDataAllocator()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:615:14:virtual TfLiteStatus tflite::MicroAllocator::AllocateNodeAndRegistrations(const tflite::Model*, tflite::SubgraphAllocations*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:788:14:virtual TfLiteStatus tflite::MicroAllocator::AllocateVariables(const tflite::SubGraph*, TfLiteEvalTensor*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:835:14:virtual TfLiteStatus tflite::MicroAllocator::CommitStaticMemoryPlan(const tflite::Model*, tflite::SubgraphAllocations*, tflite::ScratchBufferHandle*)	112	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:918:14:virtual TfLiteStatus tflite::MicroAllocator::AllocateScratchBufferHandles(tflite::ScratchBufferHandle**, size_t)	8	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:751:14:virtual TfLiteStatus tflite::MicroAllocator::AllocateTfLiteEvalTensors(const tflite::Model*, tflite::SubgraphAllocations*)	72	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:169:7:void* tflite::internal::GetFlatbufferTensorBuffer(const tflite::Tensor&, const flatbuffers::Vector<flatbuffers::Offset<tflite::Buffer> >*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:199:14:TfLiteStatus tflite::internal::InitializeTfLiteTensorFromFlatbuffer(tflite::IPersistentBufferAllocator*, tflite::INonPersistentBufferAllocator*, bool, const tflite::Tensor&, const flatbuffers::Vector<flatbuffers::Offset<tflite::Buffer> >*, tflite::ErrorReporter*, TfLiteTensor*)	56	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:818:14:virtual TfLiteStatus tflite::MicroAllocator::PopulateTfLiteTensorFromFlatbuffer(const tflite::Model*, TfLiteTensor*, int, int, bool)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:703:15:virtual TfLiteTensor* tflite::MicroAllocator::AllocateTempTfLiteTensor(const tflite::Model*, const tflite::SubgraphAllocations*, int, int)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:642:15:virtual TfLiteTensor* tflite::MicroAllocator::AllocatePersistentTfLiteTensor(const tflite::Model*, const tflite::SubgraphAllocations*, int, int)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:321:14:TfLiteStatus tflite::internal::InitializeTfLiteEvalTensorFromFlatbuffer(const tflite::Tensor&, const flatbuffers::Vector<flatbuffers::Offset<tflite::Buffer> >*, tflite::ErrorReporter*, TfLiteEvalTensor*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:345:8:static size_t tflite::MicroAllocator::GetDefaultTailUsage(bool)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:362:1:tflite::MicroAllocator::MicroAllocator(tflite::SingleArenaBufferAllocator*, tflite::MicroMemoryPlanner*, tflite::ErrorReporter*)	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:371:1:tflite::MicroAllocator::MicroAllocator(tflite::IPersistentBufferAllocator*, tflite::INonPersistentBufferAllocator*, tflite::MicroMemoryPlanner*, tflite::ErrorReporter*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:383:17:static tflite::MicroAllocator* tflite::MicroAllocator::Create(uint8_t*, size_t, tflite::MicroMemoryPlanner*, tflite::ErrorReporter*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:396:17:static tflite::MicroAllocator* tflite::MicroAllocator::Create(uint8_t*, size_t, tflite::ErrorReporter*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:415:17:static tflite::MicroAllocator* tflite::MicroAllocator::Create(tflite::SingleArenaBufferAllocator*, tflite::MicroMemoryPlanner*, tflite::ErrorReporter*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:429:17:static tflite::MicroAllocator* tflite::MicroAllocator::Create(uint8_t*, size_t, uint8_t*, size_t, tflite::ErrorReporter*)	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:462:22:tflite::SubgraphAllocations* tflite::MicroAllocator::StartModelAllocation(const tflite::Model*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:502:14:TfLiteStatus tflite::MicroAllocator::FinishModelAllocation(const tflite::Model*, tflite::SubgraphAllocations*, tflite::ScratchBufferHandle**)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:537:14:TfLiteStatus tflite::MicroAllocator::RequestScratchBufferInArena(size_t, int, int*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:580:14:TfLiteStatus tflite::MicroAllocator::FinishPrepareNodeAllocations(int)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:610:8:size_t tflite::MicroAllocator::used_bytes() const	8	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:831:16:tflite::ErrorReporter* tflite::MicroAllocator::error_reporter() const	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:937:14:TfLiteStatus tflite::MicroAllocator::InitScratchBufferData()	8	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:956:33:tflite::internal::ScratchBufferRequest* tflite::MicroAllocator::GetScratchBufferRequests()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_allocator.cpp:961:23:tflite::BuiltinDataAllocator* tflite::MicroAllocator::GetBuiltinDataAllocator()	0	static

@@ -1,0 +1,2 @@
+../source/video/eiq_pxp.c:53:6:EIQ_PXP_Init	64	static
+../source/video/eiq_pxp.c:107:6:EIQ_PXP_Rotate	4	static

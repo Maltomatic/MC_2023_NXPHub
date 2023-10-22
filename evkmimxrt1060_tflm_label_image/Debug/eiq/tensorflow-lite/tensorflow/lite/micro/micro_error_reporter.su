@@ -1,0 +1,10 @@
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/core/api/error_reporter.h:37:11:tflite::ErrorReporter::~ErrorReporter()	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/core/api/error_reporter.h:37:11:virtual tflite::ErrorReporter::~ErrorReporter()	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/micro/micro_error_reporter.h:30:3:tflite::MicroErrorReporter::~MicroErrorReporter()	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/micro/micro_error_reporter.h:30:3:virtual tflite::MicroErrorReporter::~MicroErrorReporter()	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/micro/micro_error_reporter.h:34:3:static void tflite::MicroErrorReporter::operator delete(void*)	16	static
+c:\nxp\mcuxpressoide_11.8.0_1165\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047\tools\arm-none-eabi\include\c++\12.2.1\new:174:33:void* operator new(std::size_t, void*)	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/core/api/error_reporter.h:35:7:constexpr tflite::ErrorReporter::ErrorReporter()	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/micro/micro_error_reporter.h:28:7:constexpr tflite::MicroErrorReporter::MicroErrorReporter()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_error_reporter.cpp:29:16:tflite::ErrorReporter* tflite::GetMicroErrorReporter()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_error_reporter.cpp:36:5:virtual int tflite::MicroErrorReporter::Report(const char*, va_list)	24	static
