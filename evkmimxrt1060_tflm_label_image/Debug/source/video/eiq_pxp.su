@@ -1,0 +1,8 @@
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_pxp.h:1130:20:PXP_Start	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_pxp.h:1262:24:PXP_GetStatusFlags	24	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_pxp.h:1286:20:PXP_ClearStatusFlags	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_pxp.h:1530:20:PXP_SetProcessSurfaceBackGroundColor	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_pxp.h:1697:20:PXP_SetRotateConfig	16	static
+C:\Users\JERRY\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\drivers/fsl_pxp.h:1876:20:PXP_EnableCsc1	16	static
+../source/video/eiq_pxp.c:53:6:EIQ_PXP_Init	64	static
+../source/video/eiq_pxp.c:107:6:EIQ_PXP_Rotate	16	static

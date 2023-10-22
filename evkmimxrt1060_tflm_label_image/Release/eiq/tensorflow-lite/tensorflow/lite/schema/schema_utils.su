@@ -1,0 +1,2 @@
+../eiq/tensorflow-lite/tensorflow/lite/schema/schema_utils.cpp:45:17:tflite::BuiltinOperator tflite::GetBuiltinCode(const OperatorCode*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/schema/schema_utils.cpp:54:17:tflite::BuiltinOperator tflite::GetBuiltinCode(const OperatorCodeT*)	0	static

@@ -1,0 +1,16 @@
+C:\Users\jj910\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.h:55:7:virtual tflite::RecordingMicroAllocator::~RecordingMicroAllocator()	8	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:29:8:static size_t tflite::RecordingMicroAllocator::GetDefaultTailUsage()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:46:1:tflite::RecordingMicroAllocator::RecordingMicroAllocator(tflite::RecordingSingleArenaBufferAllocator*, tflite::MicroMemoryPlanner*, tflite::ErrorReporter*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:53:26:static tflite::RecordingMicroAllocator* tflite::RecordingMicroAllocator::Create(uint8_t*, size_t, tflite::ErrorReporter*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:76:20:tflite::RecordedAllocation tflite::RecordingMicroAllocator::GetRecordedAllocation(tflite::RecordedAllocationType) const	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:100:1:const tflite::RecordingSingleArenaBufferAllocator* tflite::RecordingMicroAllocator::GetSimpleMemoryAllocator() const	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:104:6:void tflite::RecordingMicroAllocator::PrintAllocations() const	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:144:6:void tflite::RecordingMicroAllocator::PrintRecordedAllocation(tflite::RecordedAllocationType, const char*, const char*) const	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:250:20:tflite::RecordedAllocation tflite::RecordingMicroAllocator::SnapshotAllocationUsage() const	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:256:6:void tflite::RecordingMicroAllocator::RecordAllocationUsage(const tflite::RecordedAllocation&, tflite::RecordedAllocation&)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:136:7:virtual void* tflite::RecordingMicroAllocator::AllocatePersistentBuffer(size_t)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:160:14:virtual TfLiteStatus tflite::RecordingMicroAllocator::AllocateNodeAndRegistrations(const tflite::Model*, tflite::SubgraphAllocations*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:191:14:virtual TfLiteStatus tflite::RecordingMicroAllocator::AllocateTfLiteEvalTensors(const tflite::Model*, tflite::SubgraphAllocations*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:214:14:virtual TfLiteStatus tflite::RecordingMicroAllocator::AllocateVariables(const tflite::SubGraph*, TfLiteEvalTensor*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:227:1:virtual TfLiteTensor* tflite::RecordingMicroAllocator::AllocatePersistentTfLiteTensorInternal()	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/recording_micro_allocator.cpp:237:14:virtual TfLiteStatus tflite::RecordingMicroAllocator::PopulateTfLiteTensorFromFlatbuffer(const tflite::Model*, TfLiteTensor*, int, int, bool)	48	static

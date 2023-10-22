@@ -1,0 +1,7 @@
+../video/fsl_mt9m114.c:381:10:MT9M114_Deinit	8	static
+../video/fsl_mt9m114.c:398:10:MT9M114_Control	0	static
+../video/fsl_mt9m114.c:182:17:MT9M114_SetState	32	static
+../video/fsl_mt9m114.c:388:10:MT9M114_Start	0	static
+../video/fsl_mt9m114.c:393:10:MT9M114_Stop	0	static
+../video/fsl_mt9m114.c:247:10:MT9M114_Init	48	static
+../video/fsl_mt9m114.c:403:10:MT9M114_InitExt	0	static

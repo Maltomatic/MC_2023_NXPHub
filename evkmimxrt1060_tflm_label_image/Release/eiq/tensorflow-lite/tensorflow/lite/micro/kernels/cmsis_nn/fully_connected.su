@@ -1,0 +1,10 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:48:7:void* tflite::{anonymous}::Init(TfLiteContext*, const char*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:53:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	176	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:252:14:TfLiteStatus tflite::{anonymous}::EvalQuantizedInt16(TfLiteContext*, TfLiteNode*, const OpData&, const TfLiteEvalTensor*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, TfLiteEvalTensor*)	168	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:370:14:TfLiteStatus tflite::{anonymous}::EvalInt16(TfLiteContext*, TfLiteNode*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:176:14:TfLiteStatus tflite::{anonymous}::EvalQuantizedInt8(TfLiteContext*, TfLiteNode*, const OpData&, const TfLiteEvalTensor*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, TfLiteEvalTensor*)	216	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:347:14:TfLiteStatus tflite::{anonymous}::EvalInt8(TfLiteContext*, TfLiteNode*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:290:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	208	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:395:20:TfLiteRegistration tflite::Register_FULLY_CONNECTED()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:399:20:TfLiteRegistration tflite::Register_FULLY_CONNECTED_INT8()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/fully_connected.cpp:403:20:TfLiteRegistration tflite::Register_FULLY_CONNECTED_INT16()	16	static

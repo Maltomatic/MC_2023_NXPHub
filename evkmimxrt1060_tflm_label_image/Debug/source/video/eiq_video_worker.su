@@ -1,0 +1,9 @@
+../source/video/eiq_video_worker.c:52:13:start	8	static
+../source/video/eiq_video_worker.c:75:13:isReady	4	static
+../source/video/eiq_video_worker.c:86:13:notify	8	static
+../source/video/eiq_video_worker.c:98:15:getResolution	16	static
+../source/video/eiq_video_worker.c:118:17:getData	8	static
+../source/video/eiq_video_worker.c:140:13:refresh	56	static
+../source/video/eiq_video_worker.c:190:13:setReadyCallback	16	static
+../source/video/eiq_video_worker.c:208:17:setCaptureWindowHeightRate	24	static
+../source/video/eiq_video_worker.c:246:20:EIQ_InitVideoWorker	8	static

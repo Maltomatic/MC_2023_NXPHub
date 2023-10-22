@@ -1,0 +1,3 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/prelu.cpp:29:7:void* tflite::PreluInit(TfLiteContext*, const char*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/prelu.cpp:34:14:TfLiteStatus tflite::PreluEval(TfLiteContext*, TfLiteNode*)	376	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/prelu.cpp:70:20:TfLiteRegistration tflite::Register_PRELU()	16	static

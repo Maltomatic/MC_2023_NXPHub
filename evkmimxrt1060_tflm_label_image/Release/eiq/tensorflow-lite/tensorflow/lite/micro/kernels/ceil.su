@@ -1,0 +1,3 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/ceil.cpp:31:14:TfLiteStatus tflite::ops::micro::ceil::Prepare(TfLiteContext*, TfLiteNode*)	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/ceil.cpp:54:14:TfLiteStatus tflite::ops::micro::ceil::Eval(TfLiteContext*, TfLiteNode*)	64	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/ceil.cpp:69:20:TfLiteRegistration tflite::ops::micro::Register_CEIL()	16	static

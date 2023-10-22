@@ -1,0 +1,13 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:53:1:virtual tflite::MicroGraph::~MicroGraph()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:219:5:virtual int tflite::MicroGraph::NumSubgraphs()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:226:8:virtual size_t tflite::MicroGraph::NumSubgraphInputs(int)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:230:19:virtual TfLiteEvalTensor* tflite::MicroGraph::GetSubgraphInput(int, int)	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:237:8:virtual size_t tflite::MicroGraph::NumSubgraphOutputs(int)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:241:19:virtual TfLiteEvalTensor* tflite::MicroGraph::GetSubgraphOutput(int, int)	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:55:14:virtual TfLiteStatus tflite::MicroGraph::InitSubgraphs()	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:119:14:virtual TfLiteStatus tflite::MicroGraph::FreeSubgraphs()	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:145:14:virtual TfLiteStatus tflite::MicroGraph::InvokeSubgraph(int)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:89:14:virtual TfLiteStatus tflite::MicroGraph::PrepareSubgraphs()	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:192:14:virtual TfLiteStatus tflite::MicroGraph::ResetVariableTensors()	56	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:40:1:tflite::MicroGraph::MicroGraph(TfLiteContext*, const tflite::Model*, tflite::MicroAllocator*, tflite::MicroResourceVariables*)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_graph.cpp:221:6:void tflite::MicroGraph::SetSubgraphAllocations(tflite::SubgraphAllocations*)	0	static

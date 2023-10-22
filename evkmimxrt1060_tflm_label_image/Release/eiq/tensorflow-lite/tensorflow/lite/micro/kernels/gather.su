@@ -1,0 +1,3 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/gather.cpp:99:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	72	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/gather.cpp:190:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	96	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/gather.cpp:219:20:TfLiteRegistration tflite::Register_GATHER()	16	static

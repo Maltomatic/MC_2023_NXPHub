@@ -1,0 +1,3 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/resize_bilinear.cpp:32:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	56	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/resize_bilinear.cpp:68:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	480	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/resize_bilinear.cpp:111:20:TfLiteRegistration tflite::Register_RESIZE_BILINEAR()	16	static

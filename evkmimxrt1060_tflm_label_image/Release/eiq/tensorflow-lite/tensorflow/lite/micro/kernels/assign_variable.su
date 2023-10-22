@@ -1,0 +1,3 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/assign_variable.cpp:71:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/assign_variable.cpp:38:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/assign_variable.cpp:97:20:TfLiteRegistration tflite::Register_ASSIGN_VARIABLE()	16	static

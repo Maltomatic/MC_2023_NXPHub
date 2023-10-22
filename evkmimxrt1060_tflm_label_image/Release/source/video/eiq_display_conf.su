@@ -1,0 +1,3 @@
+../source/video/eiq_display_conf.c:142:6:LCDIF_IRQHandler	8	static
+../source/video/eiq_display_conf.c:153:10:BOARD_PrepareDisplayController	16	static
+../source/video/eiq_display_conf.c:164:6:BOARD_ResetDisplayMix	0	static

@@ -1,0 +1,2 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/quantize_common.cpp:31:14:TfLiteStatus tflite::PrepareQuantizeReference(TfLiteContext*, TfLiteNode*)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/quantize_common.cpp:92:14:TfLiteStatus tflite::EvalQuantizeReference(TfLiteContext*, TfLiteNode*)	112	static

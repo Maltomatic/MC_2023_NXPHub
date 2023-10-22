@@ -1,0 +1,22 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:229:7:void* tflite::ops::micro::elementwise::{anonymous}::ElementWiseAbsRsqrtInit(TfLiteContext*, const char*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:81:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::GenericPrepare(TfLiteContext*, TfLiteNode*) [with bool (* <anonymous>)(TfLiteType) = IsNumericSupportedType]	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:105:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::PrepareAbsRsqrt(TfLiteContext*, TfLiteNode*) [with bool (* <anonymous>)(TfLiteType) = IsAbsSupportedType; int op_nameid = 0]	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:105:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::PrepareAbsRsqrt(TfLiteContext*, TfLiteNode*) [with bool (* <anonymous>)(TfLiteType) = IsRsqrtSupportedType; int op_nameid = 1]	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:285:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::validate_input_func(TfLiteContext*, TfLiteNode*, T) [with T = signed char]	8	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:368:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::LogicalNotEval(TfLiteContext*, TfLiteNode*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:364:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::SquareEval(TfLiteContext*, TfLiteNode*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:328:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::SinEval(TfLiteContext*, TfLiteNode*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:340:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::SqrtEval(TfLiteContext*, TfLiteNode*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:336:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::LogEval(TfLiteContext*, TfLiteNode*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:332:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::CosEval(TfLiteContext*, TfLiteNode*)	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:344:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::RsqrtEval(TfLiteContext*, TfLiteNode*)	80	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:294:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::AbsEval(TfLiteContext*, TfLiteNode*)	72	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:81:14:TfLiteStatus tflite::ops::micro::elementwise::{anonymous}::GenericPrepare(TfLiteContext*, TfLiteNode*) [with bool (* <anonymous>)(TfLiteType) = IsLogicalSupportedType]	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:375:20:TfLiteRegistration tflite::ops::micro::Register_ABS()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:383:20:TfLiteRegistration tflite::ops::micro::Register_SIN()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:389:20:TfLiteRegistration tflite::ops::micro::Register_COS()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:395:20:TfLiteRegistration tflite::ops::micro::Register_LOG()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:401:20:TfLiteRegistration tflite::ops::micro::Register_SQRT()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:407:20:TfLiteRegistration tflite::ops::micro::Register_RSQRT()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:415:20:TfLiteRegistration tflite::ops::micro::Register_SQUARE()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/elementwise.cpp:421:20:TfLiteRegistration tflite::ops::micro::Register_LOGICAL_NOT()	16	static

@@ -1,0 +1,2 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_string.cpp:234:16:int MicroVsnprintf(char*, int, const char*, va_list)	112	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_string.cpp:311:16:)	16	static

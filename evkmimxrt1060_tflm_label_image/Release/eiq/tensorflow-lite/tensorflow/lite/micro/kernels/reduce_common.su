@@ -1,0 +1,7 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce_common.cpp:34:14:TfLiteStatus tflite::PrepareSimple(TfLiteContext*, TfLiteNode*, int32_t*, int*)	56	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce_common.cpp:67:14:TfLiteStatus tflite::PrepareMaxHelper(TfLiteContext*, TfLiteNode*, OpDataReduce*)	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce_common.cpp:93:14:TfLiteStatus tflite::PrepareMeanOrSumHelper(TfLiteContext*, TfLiteNode*, OpDataReduce*)	40	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce_common.cpp:123:6:void tflite::ResolveAxis(const int*, int, MeanParams*)	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce_common.cpp:135:14:TfLiteStatus tflite::EvalMeanHelper(TfLiteContext*, TfLiteNode*, OpDataReduce*)	448	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce_common.cpp:257:14:TfLiteStatus tflite::EvalMaxHelper(TfLiteContext*, TfLiteNode*, OpDataReduce*)	88	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/reduce_common.cpp:311:14:TfLiteStatus tflite::EvalSumHelper(TfLiteContext*, TfLiteNode*, OpDataReduce*)	144	static

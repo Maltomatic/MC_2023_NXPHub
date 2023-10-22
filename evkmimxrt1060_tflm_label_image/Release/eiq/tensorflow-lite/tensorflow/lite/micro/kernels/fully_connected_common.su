@@ -1,0 +1,3 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/fully_connected_common.cpp:34:22:tflite::FullyConnectedParams tflite::FullyConnectedParamsQuantized(const OpDataFullyConnected&)	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/fully_connected_common.cpp:47:22:tflite::FullyConnectedParams tflite::FullyConnectedParamsFloat(TfLiteFusedActivation)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/fully_connected_common.cpp:55:14:TfLiteStatus tflite::CalculateOpDataFullyConnected(TfLiteContext*, TfLiteFusedActivation, TfLiteType, const TfLiteTensor*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*, OpDataFullyConnected*)	40	static

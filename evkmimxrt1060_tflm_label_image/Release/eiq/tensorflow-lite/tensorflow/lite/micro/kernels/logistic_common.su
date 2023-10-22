@@ -1,0 +1,2 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/logistic_common.cpp:32:14:TfLiteStatus tflite::CalculateArithmeticOpDataLogistic(TfLiteContext*, TfLiteNode*, OpDataLogistic*)	56	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/logistic_common.cpp:112:14:TfLiteStatus tflite::LogisticPrepare(TfLiteContext*, TfLiteNode*)	0	static

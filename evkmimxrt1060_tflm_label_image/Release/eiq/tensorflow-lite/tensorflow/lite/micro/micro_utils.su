@@ -1,0 +1,3 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_utils.cpp:30:5:int tflite::ElementCount(const TfLiteIntArray&)	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_utils.cpp:38:8:size_t tflite::EvalTensorBytes(const TfLiteEvalTensor*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_utils.cpp:45:6:void tflite::SignedSymmetricPerChannelQuantize(const float*, TfLiteIntArray*, int, int8_t*, float*)	32	static

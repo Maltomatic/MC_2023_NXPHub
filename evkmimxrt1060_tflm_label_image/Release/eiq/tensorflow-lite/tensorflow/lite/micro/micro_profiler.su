@@ -1,0 +1,8 @@
+C:\Users\jj910\Documents\MCUXpressoIDE_11.8.0_1165\workspace\evkmimxrt1060_tflm_label_image\eiq\tensorflow-lite/tensorflow/lite/micro/micro_profiler.h:32:11:virtual tflite::MicroProfiler::~MicroProfiler()	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_profiler.cpp:27:10:virtual uint32_t tflite::MicroProfiler::BeginEvent(const char*)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_profiler.cpp:38:6:virtual void tflite::MicroProfiler::EndEvent(uint32_t)	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_profiler.cpp:43:10:uint32_t tflite::MicroProfiler::GetTotalTicks() const	4	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_profiler.cpp:51:6:void tflite::MicroProfiler::Log() const	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_profiler.cpp:61:6:void tflite::MicroProfiler::LogCsv() const	32	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_profiler.cpp:71:6:void tflite::MicroProfiler::LogTicksPerTagCsv()	56	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/micro_profiler.cpp:104:5:int tflite::MicroProfiler::FindExistingOrNextPosition(const char*)	24	static

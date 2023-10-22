@@ -1,0 +1,5 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/l2norm.cpp:80:7:void* tflite::ops::micro::l2norm::Init(TfLiteContext*, const char*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/l2norm.cpp:41:14:TfLiteStatus tflite::ops::micro::l2norm::Prepare(TfLiteContext*, TfLiteNode*)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/l2norm.cpp:86:14:TfLiteStatus tflite::ops::micro::l2norm::Eval(TfLiteContext*, TfLiteNode*)	120	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/l2norm.cpp:139:20:TfLiteRegistration tflite::ops::micro::Register_L2NORM_REF()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/l2norm.cpp:143:20:TfLiteRegistration tflite::ops::micro::Register_L2_NORMALIZATION()	16	static

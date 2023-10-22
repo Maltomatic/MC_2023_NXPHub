@@ -1,0 +1,7 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp:501:7:void* tflite::{anonymous}::UnidirectionalSequenceLstmInit(TfLiteContext*, const char*, size_t)	0	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp:1456:14:TfLiteStatus tflite::{anonymous}::UnidirectionalSequenceLstmEval(TfLiteContext*, TfLiteNode*)	424	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp:962:14:0(TfLiteContext*, int32_t, const TfLiteTensor*, const TfLiteTensor*, int32_t**)	72	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp:992:14:TfLiteStatus tflite::{anonymous}::PopulatePrecomputedZPTimesWeightsWithBias(TfLiteContext*, UnidirectionalSequenceLstmOpData*, TfLiteNode*)	112	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp:54:14:TfLiteStatus tflite::{anonymous}::PopulateQuantizedLstmParams8x8_16(TfLiteContext*, TfLiteNode*, tflite::IntegerLstmParameter*)	232	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp:1183:14:TfLiteStatus tflite::{anonymous}::UnidirectionalSequenceLstmPrepare(TfLiteContext*, TfLiteNode*)	200	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/unidirectional_sequence_lstm.cpp:1690:20:TfLiteRegistration tflite::Register_UNIDIRECTIONAL_SEQUENCE_LSTM()	16	static

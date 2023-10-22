@@ -1,0 +1,5 @@
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp:31:6:void tflite::{anonymous}::EvalQuantized(TfLiteContext*, TfLiteNode*, const tflite::OpDataMul*, const TfLiteEvalTensor*, const TfLiteEvalTensor*, TfLiteEvalTensor*)	464	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp:106:14:TfLiteStatus tflite::EvalInt8(TfLiteContext*, TfLiteNode*)	24	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp:72:14:TfLiteStatus tflite::Eval(TfLiteContext*, TfLiteNode*)	48	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp:124:20:TfLiteRegistration tflite::Register_MUL()	16	static
+../eiq/tensorflow-lite/tensorflow/lite/micro/kernels/cmsis_nn/mul.cpp:128:20:TfLiteRegistration tflite::Register_MUL_INT8()	16	static
